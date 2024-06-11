@@ -60,8 +60,8 @@
               icon: n.BA,
               link: "https://etherscan.io/token/0xae3359ed3c567482fb0102c584c23daa2693eacf",
             },
-            { icon: n.ht, link: "https://t.me/DORKcoin" },
-            { icon: n.sj, link: "mailto:info@dorkcoin.gay" },
+            { icon: n.ht, link: "https://t.me/basebork" },
+            { icon: n.sj, link: "mailto:info@basebork.gay" },
           ];
         return (0, i.jsxs)(i.Fragment, {
           children: [
